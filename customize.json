@@ -1,11 +1,11 @@
 {
   "greeting": "hey",
   "name": "Sze Qi",
-  "greetingText": "it's your birthday!! 🥳🥳 ",
+  "greetingText": "today is a special day.",
   "wishText": "you deserve every bit of happiness and all the success. i hope you have the best day 🤩🥳😎✨✨🤠🦦",
   "imagePath": "img/cat.jpg",
   "text1": "it's your birthday!! 🥳🥳",
-  "textInChatBox": "Happy birthday to you!! 🥳🥳 ",
+  "textInChatBox": "Happy birthday to you <3 ",
   "sendButtonLabel": "Send",
   "text2": "that's what i was going to do.",
   "text3": "but then i stopped",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "s",
   "bigTextPart2": "o",
-  "wishHeading": "happy birthday!! 💞✨✨❤️🌈🌻 !",
+  "wishHeading": "happy birthday!!",
   "outroText": "i hope you liked it.",
   "replayText": "<3",
   "outroSmiley": ":)"
